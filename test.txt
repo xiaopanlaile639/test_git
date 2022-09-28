@@ -1,6 +1,11 @@
 first line
 second line in dev2
 
+<<<<<<< HEAD
 common line
 
 sixth line in dev2
+=======
+
+forth line in dev1
+>>>>>>> dev1
