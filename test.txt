@@ -6,3 +6,4 @@ enen, test stash in git in 10.7
 push_test in 11.16
 
 push_test in 11.16 in remote
+reset test
